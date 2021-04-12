@@ -7,7 +7,7 @@
 
 ### *Sobre:*
 Me chamo Matheus Tomaz da Silva, nascido em 1998, gamer e apaixonado por tecnologia.
-Atualmente trainee em linguagem JAVA na Foursys.
+Atualmente atuando como Trainee JAVA na empresa FOURSYS, localizada em Barueri - SP.
 Meu foco principal hoje é a busca do aprimoramento em JAVA, e desenvolver novos conhecimentos em outras linguagens.
 
 Se quiser me mandar um e-mail para conversarmos... matheustomaz3107@gmail.com

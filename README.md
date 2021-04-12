@@ -30,7 +30,10 @@ Se quiser me mandar um e-mail para conversarmos... [matheustomaz3107@gmail.com](
 - JAVA, 2021
 - Scrum Fundamentals Certified - 2021
 
-### Status no Github
+### *Habilidades*
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
+
+### *Status no Github*
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matheus310798&show_icons=true&locale=en" alt="Matheus Tomaz da Silva" />
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianoleitedasilva&show_icons=true&locale=en" alt="Adriano Leite da Silva" />
 **Matheus310798/Matheus310798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

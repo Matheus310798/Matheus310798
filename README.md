@@ -15,11 +15,6 @@ Meu foco principal hoje é a busca do aprimoramento em JAVA, e desenvolver novos
 ##### *Licenças e Certificados:*
 - Scrum Fundamentals Certified - 2021
 
-update - atualização
-feature - implementação
-fix - correção
-security - correção/implementação de segurança
-
 <!--
 **Matheus310798/Matheus310798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

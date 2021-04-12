@@ -32,7 +32,7 @@ Preferencialmente do estilo de **Terro, Ação e Suspense**.
 - Administração, Negócios e Marketing - 2023 
 
 ### Licenças e Certificados: 📃
-- JAVA, 2021
+- JAVA - 2021
 - Scrum Fundamentals Certified - 2021
 
 ### Habilidades 💪 

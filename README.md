@@ -10,6 +10,13 @@ Me chamo Matheus Tomaz da Silva, nascido em 1998, gamer e apaixonado por tecnolo
 Atualmente atuando como Trainee JAVA na empresa FOURSYS, localizada em Barueri - SP.
 Meu foco principal hoje é a busca do aprimoramento em JAVA, e desenvolver novos conhecimentos em outras linguagens.
 
+- *Música:* **Rap nacional, Hip-Hop**.
+- *Livros:* Lendo atualmente **Uma história da Humanidade**.
+- *Gamer:* se divertindo apenas no PC, se quiser me add na Steam **matheustomaz3107**.
+- *Jogos:* **Fifa, Nba2K, Madden NFL, Saga Battefield** e **Corrida (F1)**.
+- *Esportes:* Apaixonado por **Basquete** e **Futebol**.
+- *Filmes:* **Terro, Ação e Suspense**.
+
 Se quiser me mandar um e-mail para conversarmos... [matheustomaz3107@gmail.com](mailto:matheustomaz3107@gmail.com)
 
 ### *Formação Acadêmica:*

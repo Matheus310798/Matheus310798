@@ -10,7 +10,7 @@ Me chamo Matheus Tomaz da Silva, nascido em 1998, gamer e apaixonado por tecnolo
 Atualmente atuando como Trainee JAVA na empresa FOURSYS, localizada em Barueri - SP.
 Meu foco principal hoje é a busca do aprimoramento em JAVA, e desenvolver novos conhecimentos em outras linguagens.
 
-Se quiser me mandar um e-mail para conversarmos... matheustomaz3107@gmail.com
+Se quiser me mandar um e-mail para conversarmos... [matheustomaz3107@gmail.com](mailto:matheustomaz3107@gmail.com)
 
 ### *Formação Acadêmica:*
 - Engenharia Mecânica - 2020
@@ -22,7 +22,7 @@ Se quiser me mandar um e-mail para conversarmos... matheustomaz3107@gmail.com
 
 ### Status no Github
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matheus310798&show_icons=true&locale=en" alt="Matheus Tomaz da Silva" />
-<!--
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianoleitedasilva&show_icons=true&locale=en" alt="Adriano Leite da Silva" />
 **Matheus310798/Matheus310798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

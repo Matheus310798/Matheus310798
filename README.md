@@ -17,6 +17,7 @@ Se quiser me mandar um e-mail para conversarmos... matheustomaz3107@gmail.com
 - Administração, Negócios e Marketing - 2023
 
 ### *Licenças e Certificados:*
+- JAVA, 2021
 - Scrum Fundamentals Certified - 2021
 
 <!--

@@ -2,7 +2,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Matheus310798&label=Profile%20views&color=0e75b6&style=social" alt="Matheus Tomaz da Silva" />
 
+### Redes Sociais:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/matheus-tomaz-da-silva-5b4792127)
+
 ### *Sobre:*
 Me chamo Matheus Tomaz da Silva, nascido em 1998, gamer e apaixonado por tecnologia.
 Atualmente trainee em linguagem JAVA na Foursys.

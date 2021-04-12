@@ -21,7 +21,7 @@ Viciado em **Fifa, Nba2K, Madden NFL, Saga Battefield** e **Corrida (F1)**.
 - **Esportes:** 🏀 
 Apaixonado por **Basquete** e **Futebol**.
 - **Filmes:** 🎬 
-Preferencialmente do estilo de **Terro, Ação e Suspense**.
+Preferencialmente do estilo de **Terror, Ação e Suspense**.
 
 **Aplicativos Favoritos: 🔥**
 

@@ -11,12 +11,18 @@ Atualmente atuando como Trainee JAVA na empresa FOURSYS, localizada em Barueri -
 Meu foco principal hoje é a busca do aprimoramento em JAVA, e desenvolver novos conhecimentos em outras linguagens.
 Se quiser me mandar um e-mail para conversarmos... [matheustomaz3107@gmail.com](mailto:matheustomaz3107@gmail.com)
 
-- **Música:**   Vivendo a cultura do **Rap nacional, Hip-Hop**.
-- **Livros:**   Lendo atualmente **Uma história da Humanidade**.
-- **Gamer:**    Se divertindo apenas no PC, se quiser me add na Steam **matheustomaz3107**.
-- **Jogos:**    Viciado em **Fifa, Nba2K, Madden NFL, Saga Battefield** e **Corrida (F1)**.
-- **Esportes:** Apaixonado por **Basquete** e **Futebol**.
-- **Filmes:**   Preferencialmente do estilo de **Terro, Ação e Suspense**.
+- **Música:**  🎼 
+Vivendo a cultura do **Rap nacional, Hip-Hop**.
+- **Livros:**  📚 
+Lendo atualmente **Uma história da Humanidade**.
+- **Gamer:**   🎧 
+Se divertindo apenas no PC, se quiser me add na Steam **matheustomaz3107**.
+- **Jogos:**   🎮 
+Viciado em **Fifa, Nba2K, Madden NFL, Saga Battefield** e **Corrida (F1)**.
+- **Esportes:** 🏀 
+Apaixonado por **Basquete** e **Futebol**.
+- **Filmes:** 🎬 
+Preferencialmente do estilo de **Terro, Ação e Suspense**.
 
 **Aplicativos Favoritos:**
 
@@ -24,7 +30,7 @@ Se quiser me mandar um e-mail para conversarmos... [matheustomaz3107@gmail.com](
 
 ### *Formação Acadêmica:*
 - Engenharia Mecânica - 2020
-- Administração, Negócios e Marketing - 2023
+- Administração, Negócios e Marketing - 2023 
 
 ### *Licenças e Certificados:*
 - JAVA, 2021
